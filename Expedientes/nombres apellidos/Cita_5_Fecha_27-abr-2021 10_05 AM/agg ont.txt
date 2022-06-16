@@ -1,0 +1,5 @@
+A/B/C
+
+Display ont autofind all
+interface gpon A/B
+display ont info C all 
